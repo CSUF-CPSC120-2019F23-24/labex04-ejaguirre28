@@ -6,8 +6,8 @@ int main()
 {
   const int NUM_INTS = 3; // number of values to be averaged
 
-  int num1, num2, num3;
-  double average; // average of the numbers
+  double num1, num2, num3;
+  float average; // average of the numbers
 
     // get the numbers
     std::cout << "Enter three integers, each separated by one or more spaces: ";
